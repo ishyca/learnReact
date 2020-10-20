@@ -1,0 +1,14 @@
+{
+  "name": "tikatype",
+  "version": "1.0.0",
+  "description": "experiment apache tika",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.14.8"
+  }
+}
